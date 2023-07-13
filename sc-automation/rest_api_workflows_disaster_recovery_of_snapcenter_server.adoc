@@ -102,4 +102,13 @@ Activez ou désactivez la reprise après incident du stockage
 POST
 
 |===
+
+NOTE: La planification des sauvegardes du référentiel sera restaurée uniquement si vous installez le plug-in SnapCenter pour Windows et que vous associez un LUN NetApp à la machine serveur.
+
+
+NOTE: Si les DLL sont corrompues, vous pouvez essayer de réparer le serveur SnapCenter ou de corriger l'installation défectueuse.
+
+
+NOTE: Si les fichiers NSM ou config sont corrompus, vous pouvez désinstaller et réinstaller le serveur SnapCenter avec la même version.
+
 Pour plus d'informations, reportez-vous à la section https://www.youtube.com/watch?v=Nbr_wm9Cnd4&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["API de reprise après incident"^] vidéo.
