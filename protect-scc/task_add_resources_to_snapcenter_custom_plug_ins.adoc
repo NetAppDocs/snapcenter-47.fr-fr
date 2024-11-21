@@ -23,10 +23,6 @@ link:concept_develop_a_plug_in_for_your_application.html["Développez un plug-in
 * Vous devez avoir chargé les plug-ins sur SnapCenter Server.
 
 
-*À propos de cette tâche*
-
-Vous pouvez également ajouter des ressources pour les applications MySQL et DB2. Ces plug-ins peuvent être téléchargés depuis le https://automationstore.netapp.com/home.shtml["Stockage NetApp Storage Automation Store"].
-
 *Étapes*
 
 . Dans le volet de navigation de gauche, cliquez sur *Ressources*, puis sélectionnez le plug-in approprié dans la liste.
@@ -75,7 +71,7 @@ Entrez les chemins de montage sur lesquels la ressource est montée. Cette optio
 |===
 . Dans la page Entitetour Storage Footprint, sélectionnez un système de stockage et choisissez un ou plusieurs volumes, LUN et qtrees, puis cliquez sur *Save*.
 +
-Facultatif : cliquez sur le bouton image:../media/add_policy_from_resourcegroup.gif[""] Icône pour ajouter d'autres volumes, LUN et qtrees à partir d'autres systèmes de stockage.
+Facultatif : cliquez sur image:../media/add_policy_from_resourcegroup.gif["ajouter une stratégie à partir d'un groupe de ressources"]l'icône pour ajouter d'autres volumes, LUN et qtrees provenant d'autres systèmes de stockage.
 
 +
 

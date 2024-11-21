@@ -10,6 +10,7 @@ summary: 'Le workflow de clonage inclut la planification, la réalisation de l"o
 :imagesdir: ../media/
 
 
+[role="lead"]
 Le workflow de clonage inclut la planification, la réalisation de l'opération de clonage et le contrôle de l'opération.
 
 Vous devez avoir préparé l'environnement PowerShell pour exécuter les applets de commande PowerShell.
@@ -199,4 +200,4 @@ ClonedResources : {Don_DRAPER, Betty_DRAPER, Bobby_DRAPER,
 ----
 
 
-Les informations relatives aux paramètres pouvant être utilisés avec la cmdlet et leurs descriptions peuvent être obtenues en exécutant _get-Help nom_commande_. Vous pouvez également vous reporter au https://library.netapp.com/ecm/ecm_download_file/ECMLP2883300["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
+Les informations relatives aux paramètres pouvant être utilisés avec la cmdlet et leurs descriptions peuvent être obtenues en exécutant _get-Help nom_commande_. Vous pouvez également vous reporter à la https://docs.netapp.com/us-en/snapcenter-cmdlets-47/index.html["Guide de référence de l'applet de commande du logiciel SnapCenter"^].

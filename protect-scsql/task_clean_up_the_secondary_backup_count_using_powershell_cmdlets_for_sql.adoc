@@ -10,11 +10,12 @@ summary: 'Vous pouvez utiliser l"applet de commande Remove-SmBackup pour nettoye
 :imagesdir: ../media/
 
 
+[role="lead"]
 Vous pouvez utiliser l'applet de commande Remove-SmBackup pour nettoyer le nombre de sauvegardes pour les sauvegardes secondaires qui ne possèdent pas de copie Snapshot. Vous pouvez utiliser cette applet de commande lorsque le nombre total de copies Snapshot affichées dans la topologie gérer les copies ne correspond pas au paramètre de conservation des copies Snapshot de stockage secondaire.
 
 Vous devez avoir préparé l'environnement PowerShell pour exécuter les applets de commande PowerShell.
 
-Les informations relatives aux paramètres pouvant être utilisés avec la cmdlet et leurs descriptions peuvent être obtenues en exécutant _get-Help nom_commande_. Vous pouvez également vous reporter au https://library.netapp.com/ecm/ecm_download_file/ECMLP2883300["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
+Les informations relatives aux paramètres pouvant être utilisés avec la cmdlet et leurs descriptions peuvent être obtenues en exécutant _get-Help nom_commande_. Vous pouvez également vous reporter à la https://docs.netapp.com/us-en/snapcenter-cmdlets-47/index.html["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
 
 *Étapes*
 

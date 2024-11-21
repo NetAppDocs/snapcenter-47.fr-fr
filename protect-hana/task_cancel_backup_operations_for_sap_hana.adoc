@@ -1,10 +1,16 @@
-= 
+---
+permalink: protect-hana/task_cancel_backup_operations_for_sap_hana.html 
+sidebar: sidebar 
+keywords:  
+summary: 'Vous pouvez annuler les opérations de sauvegarde mises en file d"attente.' 
+---
+= Annuler les opérations de sauvegarde pour SAP HANA
 :allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
 
 
-'''
-Permalink: Protect-hana/task_cancel_backup_operations_for_sap_hana.html encadré: Mots-clés de l'encadré: résumé: 'Vous pouvez annuler les opérations de sauvegarde en file d'attente.' --- = Annuler les opérations de sauvegarde pour SAP HANA :icons: Font :imagesdir: ../media/
-
+[role="lead"]
 Vous pouvez annuler les opérations de sauvegarde mises en file d'attente.
 
 *Ce dont vous aurez besoin*
@@ -37,7 +43,7 @@ Page moniteur
  a| 
 Volet activité
  a| 
-.. Après avoir lancé l'opération de sauvegarde, cliquez sur *image:../media/activity_pane_icon.gif[""]* Dans le volet activité pour afficher les cinq opérations les plus récentes.
+.. Après avoir lancé l'opération de sauvegarde, cliquez sur * *image:../media/activity_pane_icon.gif["icône d'activité"]dans le volet activité pour afficher les cinq opérations les plus récentes.
 .. Sélectionner l'opération.
 .. Dans la page Détails du travail, cliquez sur *Annuler le travail*.
 

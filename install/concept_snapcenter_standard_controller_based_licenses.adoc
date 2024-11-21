@@ -59,8 +59,8 @@ Lorsque vous cliquez sur le nom du cluster, tous les SVM qui font partie du clus
 La colonne Controller License affiche l'état suivant :
 
 +
-** image:../media/controller_licensed_icon.gif[""] Indique qu'une licence SnapManager Suite est installée sur un système de stockage principal FAS ou AFF.
-** image:../media/controller_not_licensed_icon.gif[""] Indique qu'une licence SnapManager Suite n'est pas installée sur un système de stockage principal FAS ou AFF.
+** image:../media/controller_licensed_icon.gif["icône de licence du contrôleur"] Indique qu'une licence SnapManager Suite est installée sur un système de stockage principal FAS ou AFF.
+** image:../media/controller_not_licensed_icon.gif["icône contrôleur non sous licence"] Indique qu'une licence SnapManager Suite n'est pas installée sur un système de stockage principal FAS ou AFF.
 ** Non applicable indique qu'une licence SnapManager Suite n'est pas applicable car le contrôleur de stockage se trouve sur des plateformes de stockage Cloud Volumes ONTAP, ONTAP Select ou secondaires.
 
 
@@ -180,7 +180,7 @@ Si vous ne saisissez pas d'informations d'identification valides, aucune informa
 . Accédez à *systèmes* > *licences logicielles*.
 . Dans la zone critères de sélection, assurez-vous que le numéro de série (situé à l'arrière de l'unité) est sélectionné, saisissez le numéro de série du contrôleur, puis cliquez sur *Go!*.
 +
-image::../media/nss_controller_license_select.gif[sélection de la licence du contrôleur nss]
+image::../media/nss_controller_license_select.gif[sélectionnez la licence du contrôleur]
 
 +
 La liste des licences du contrôleur spécifié s'affiche.
@@ -238,7 +238,7 @@ NOTE: La suppression manuelle d'une licence d'essai n'est nécessaire que si vou
 .. Exécutez l'applet de commande Open-SmConnection pour lancer une session de connexion avec le serveur SnapCenter pour un compte SnapCenterAdmin.
 .. Exécutez le mot de passe set-SmRepositoryPassword pour réinitialiser le mot de passe MySQL.
 +
-Pour plus d'informations sur les applets de commande, reportez-vous à la section https://library.netapp.com/ecm/ecm_download_file/ECMLP2883300["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
+Pour plus d'informations sur les applets de commande, reportez-vous à la section https://docs.netapp.com/us-en/snapcenter-cmdlets-47/index.html["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
 
 
 

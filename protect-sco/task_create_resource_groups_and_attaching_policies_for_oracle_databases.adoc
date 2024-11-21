@@ -21,7 +21,7 @@ Vous devez associer une ou plusieurs stratégies au groupe de ressources pour d�
 
 L'image suivante illustre la relation entre les ressources, les groupes de ressources et les politiques des bases de données :
 
-image::../media/sco_resourcegroup_policy.gif[stratégie de groupe de ressources sco]
+image::../media/sco_resourcegroup_policy.gif[ajouter une stratégie à partir d'un groupe de ressources]
 
 *Étapes*
 
@@ -82,12 +82,12 @@ NOTE: Vous pouvez ajouter des bases de données à partir d'hôtes Linux et AIX 
 .. Sélectionnez une ou plusieurs stratégies dans la liste déroulante.
 +
 
-NOTE: Vous pouvez également créer une stratégie en cliquant sur image:../media/add_policy_from_resourcegroup.gif[""].
+NOTE: Vous pouvez également créer une stratégie en cliquant sur image:../media/add_policy_from_resourcegroup.gif["ajouter une stratégie à partir d'un groupe de ressources"].
 
 +
 Dans la section configurer les plannings des stratégies sélectionnées, les stratégies sélectionnées sont répertoriées.
 
-.. Cliquez sur *image:../media/add_policy_from_resourcegroup.gif[""]* Dans la colonne configurer les programmes de la stratégie pour laquelle vous souhaitez configurer un planning.
+.. Cliquez sur * *image:../media/add_policy_from_resourcegroup.gif["ajouter une stratégie à partir d'un groupe de ressources"]dans la colonne configurer les plannings pour la stratégie pour laquelle vous souhaitez configurer un planning.
 .. Dans la fenêtre Ajouter des planifications pour la stratégie _policy_name_, configurez le planning, puis cliquez sur *OK*.
 +
 Où, _policy_name_ est le nom de la stratégie que vous avez sélectionnée.
@@ -103,7 +103,7 @@ Les planifications de sauvegardes tierces ne sont pas prises en charge lorsqu'el
 . Sur la page Vérification, effectuez les opérations suivantes :
 +
 .. Cliquez sur *Charger les localisateurs* pour charger les volumes SnapMirror ou SnapVault afin d'effectuer une vérification sur le stockage secondaire.
-.. Cliquez sur *image:../media/add_policy_from_resourcegroup.gif[""]* Dans la colonne configurer les programmes pour configurer le planning de vérification pour tous les types de planification de la stratégie.
+.. Cliquez sur * *image:../media/add_policy_from_resourcegroup.gif["ajouter une stratégie à partir d'un groupe de ressources"] dans la colonne configurer les plannings pour configurer le planning de vérification pour tous les types de planning de la stratégie.
 .. Dans la boîte de dialogue Ajouter des programmes de vérification nom_stratégie, effectuez les opérations suivantes :
 +
 |===

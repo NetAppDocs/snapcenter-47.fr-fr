@@ -52,7 +52,7 @@ Dans la page *Détails du travail*, un message d'avertissement recommande au cli
 ... Cliquez sur *Upgrade*.
 
 
-** Si vous souhaitez mettre à niveau plusieurs hôtes, sélectionnez tous les hôtes, cliquez sur image:../media/more_icon.gif[""], Puis cliquez sur *Upgrade* > *OK*.
+** Si vous souhaitez mettre à niveau plusieurs hôtes, sélectionnez tous les hôtes, cliquez sur image:../media/more_icon.gif["plus d'icône"], puis cliquez sur *mettre à niveau* > *OK*.
 +
 
 NOTE: Tous les plug-ins du package sont sélectionnés. Seuls les plug-ins installés avec la version précédente de SnapCenter sont mis à niveau et les plug-ins restants ne sont pas installés. Vous devez utiliser l'option *Ajouter des plug-ins* pour installer un nouveau plug-in.
